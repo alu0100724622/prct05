@@ -1,5 +1,5 @@
 # Implementar en este fichero la clase para crear objetos racionales
-#noelia
+
 require "./gcd.rb"
 
 
